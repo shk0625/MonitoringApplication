@@ -1,4 +1,5 @@
-### 모니터링, Helm 차트를 만듭니다. 
+### 모니터링 테스트 
+*Prometheus, Grafana를 사용합니다.* 
 
 <img width="709" alt="스크린샷 2024-07-01 16 25 34" src="https://github.com/shk0625/MonitoringApplication/assets/102404971/087ea52d-b395-4a8d-aa7a-461a83607e6d">
 
